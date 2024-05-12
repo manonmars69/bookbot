@@ -27,7 +27,7 @@ def main ():
         #print report
         print(f"--- Begin report of {book_path} --- \n \n {sum_words} words found in the document \n")
         report_letters(sum_letters_list)
-        print(f"--- End report ---")
+        print(f"\n --- End report ---")
                 
   # if FileNotFoundError occurs print the following string
     except FileNotFoundError:
