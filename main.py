@@ -73,7 +73,6 @@ def letter_counter(text_lc):
             dict_letters[j] += 1
     return dict_letters
 
-
 # turn dictionary to a list of dictionaries
 def letters_list(dict):
     l_list = []
@@ -85,12 +84,9 @@ def letters_list(dict):
 def sort_common(list_dict):
     return list_dict["num"]
 
-
 # report function for letters count
 def report_letters(list_dict_sorted):
     for l in list_dict_sorted:
         print(f"The '{l['char']}' character was found {l['num']} times")
 
 main ()
-
-
