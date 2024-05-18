@@ -4,7 +4,7 @@
 
 <h2>🚀 Demo</h2>
 
-[https://github.com/manonmars69/bookbot/blob/main/media/demo.gif](https://github.com/manonmars69/bookbot/blob/main/media/demo.gif)
+![til](https://github.com/manonmars69/bookbot/blob/main/media/demo.gif)
 
 <h2>Project Screenshots:</h2>
 
