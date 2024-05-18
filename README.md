@@ -59,4 +59,4 @@ Check out https://www.gutenberg.org/
 
 <h2>💳 Credits</h2>
 
-Thanks to <a href="boot.dev">boot.dev</a> for providing an easy to follow project.
+Thanks to <a href="boot.dev">boot.dev</a> for providing an easy to follow project!
