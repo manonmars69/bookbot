@@ -9,7 +9,7 @@
 
 <h2>📷 Project Screenshot</h2>
 
-<img src="https://github.com/manonmars69/bookbot/blob/main/media/demo.png?raw=true" alt="project-screenshot" width="800px" >
+<img src="https://github.com/manonmars69/bookbot/blob/main/media/demo.png?raw=true" alt="project-screenshot" width="800px" s>
 
 <h2>🛠️ Installation Steps (Linux)</h2>
 
