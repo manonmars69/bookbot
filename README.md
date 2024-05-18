@@ -12,19 +12,19 @@
 
 <h2>🛠️ Installation Steps:</h2>
 
-<p>1. Open Terminal</p>
+<p>1. Open terminal</p>
 
 ```
 cd
 ```
 
-<p>2. Clone Repository</p>
+<p>2. Clone repository</p>
 
 ```
 git clone https://github.com/manonmars69/bookbot.git
 ```
 
-<p>3. Navigate to Folder via Terminal</p>
+<p>3. Navigate to folder via terminal</p>
 
 ```
 cd bookbot
@@ -36,13 +36,13 @@ cd bookbot
 python main.py 
 ```
 
-<p>5. Enter Book Path</p>
+<p>5. Enter book path</p>
 
 ```
-For Example: books/lorem_ipsum.txt
+f.e.: books/lorem_ipsum.txt
 ```
 
-<p>6. Add More .txt Format Books To The Folder /books/</p>
+<p>6. Add more books in .txt format to the /books/ folder</p>
 
 ```
 Check out https://www.gutenberg.org/
