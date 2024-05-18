@@ -11,7 +11,7 @@
 
 <img src="https://github.com/manonmars69/bookbot/blob/main/media/demo.png?raw=true" alt="project-screenshot" width="400px" >
 
-<h2>🛠️ Installation Steps</h2>
+<h2>🛠️ Installation Steps (Linux)</h2>
 
 <p>1. Open terminal</p>
 
@@ -20,6 +20,7 @@ cd
 ```
 
 <p>2. Clone repository</p>
+Ensure that Git is installed!
 
 ```
 git clone https://github.com/manonmars69/bookbot.git
