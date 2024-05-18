@@ -1,8 +1,17 @@
-This is my first project! 
-<h3 align="center">A passionate backend dev from Germany</h3>
-<p align="left">
-</p>
+<h1 align="center" id="title">Bookbot</h1>
 
-<h3 align="center">Languages and Tools used:</h3>
-<p align="center"> <a style="text-decoration:none" href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a style="text-decoration:none" href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a style="text-decoration:none" href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-</p>
+<p id="description">This is my first project while learning Python based on the guided project from the boot.dev curriculum. The main difference between this project and the one in boot.dev is that I implemented a user input that allows the user to choose which book in the books/... path to analyse. This simple script parses a book in .txt format and lists the total number of words and the total number of most and least common letters.</p>
+
+<h2>🚀 Demo</h2>
+
+[https://github.com/manonmars69/bookbot/blob/main/media/demo.gif](https://github.com/manonmars69/bookbot/blob/main/media/demo.gif)
+
+<h2>Project Screenshots:</h2>
+
+<img src="https://github.com/manonmars69/bookbot/blob/main/media/demo.png?raw=true" alt="project-screenshot" width="400" height="400/">
+
+<h2>🛠️ Installation Steps:</h2>
+
+<p>1. Clone Repository</p>
+
+<p>2. Navigate to folder via terminal</p>
