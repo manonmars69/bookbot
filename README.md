@@ -6,12 +6,40 @@
 
 ![til](https://github.com/manonmars69/bookbot/blob/main/media/demo.gif)
 
-<h2>Project Screenshots:</h2>
+<h2>Project Screenshot:</h2>
 
 <img src="https://github.com/manonmars69/bookbot/blob/main/media/demo.png?raw=true" alt="project-screenshot" width="400px" >
 
 <h2>🛠️ Installation Steps:</h2>
 
-<p>1. Clone Repository</p>
+<p>1. Open Terminal</p>
 
-<p>2. Navigate to folder via terminal</p>
+```
+cd
+```
+
+<p>2. Clone Repository</p>
+
+```
+git clone https://github.com/manonmars69/bookbot.git
+```
+
+<p>3. Navigate to Folder via Terminal</p>
+
+```
+cd bookbot
+```
+
+<p>4. Run main.py</p>
+
+```
+python main.py 
+```
+
+<p>5. Enter Book Path</p>
+
+```
+For Example: books/lorem_ipsum.txt
+```
+
+<p>6. Add More .txt Format Books To The Folder /books/</p>
