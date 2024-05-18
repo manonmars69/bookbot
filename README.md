@@ -51,9 +51,10 @@ Check out https://www.gutenberg.org/
 
 <h2>🔮 Future Plans</h2>
 
-[] Rewrite in GO
-[] .pdf compatibility
-[] More data analysis 
-[] Print report in .pdf (maybe LaTeX)
+-[ ] Rewrite in GO
+-[ ] .pdf compatibility 
+-[ ] Expand data analysis 
+-[ ] Build a reporting framework via LaTeX
+-[ ] Print report in .pdf 
 
 <h2> 💳 Credits</h2>
